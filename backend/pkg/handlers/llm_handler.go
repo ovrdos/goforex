@@ -3,7 +3,7 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"github.com/ovrdos/goforex/internal/llm"
+	"github.com/ovrdos/goforex/backend/internal/llm"
 )
 
 type LLMRequest struct {
