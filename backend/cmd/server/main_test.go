@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"strings"
 	"testing"
-	"github.com/ovrdos/goforex/pkg/handlers"
+	"github.com/ovrdos/goforex/backend/pkg/handlers"
 )
 
 func TestLLMHandler(t *testing.T) {
